@@ -1,0 +1,2 @@
+# curation
+Curated eukaryotic groups
