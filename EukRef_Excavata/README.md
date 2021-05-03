@@ -6,7 +6,7 @@ Taxonomy curated from 18S rRNA sequences are provided for six taxa of the Excava
 
 * EukRefdb.csv - lists the curated taxonomy of each 18S rRNA sequence in the database, and metadata associated with each sequence
 * alignment.fas - aligned 18S rRNA sequences, labeled with the curated taxonomy
-* tree.pdf - maximum likelihood tree built from the alignment, used to curate the taxonomy
+* EukRef_tree.pdf - maximum likelihood tree built from the alignment, used to curate the taxonomy
 
 
 #### please cite:
