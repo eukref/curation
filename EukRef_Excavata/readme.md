@@ -1,6 +1,6 @@
-# EukRef Excavates database
+# EukRef Excavata database
 
-Taxonomy curated from 18S rRNA sequences are provided for six taxa of the Excavates: Euglenozoa, Fornicata, Heterolobosea, Jakobida, Parabasalia, and Preaxostyla.  The Euglenozoa database is split into two:  Euglenida, and Glycomonada (comprising Diplonemea and Kinetoplastea).
+Taxonomy curated from 18S rRNA sequences are provided for six taxa of the Excavata: Euglenozoa, Fornicata, Heterolobosea, Jakobida, Parabasalia, and Preaxostyla.  The Euglenozoa database is split into two:  Euglenida, and Glycomonada (comprising Diplonemea and Kinetoplastea).
 
 ## Files included in this database are:
 
